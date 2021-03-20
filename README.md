@@ -11,7 +11,7 @@
 </h6>
 
 ## About
-A mini-program built with Deno that returns a set of ![SpaceX]("https://www.spacex.com/" "SpaceX") launch data in a JSON string using the ![log]("https://deno.land/std@0.90.0/log" "Log module") module from Deno's standard library. Results of the launch data are set to flight numbers, mission name, rocket name and customer(s) name.
+A mini-program built with Deno that returns a set of [SpaceX](https://www.spacex.com/ "SpaceX") launch data in a JSON string using the [log](https://deno.land/std@0.90.0/log "Log module") module from Deno's standard library. Results of the launch data are set to flight numbers, mission name, rocket name and customer(s) name.
 
 ## Installation
 
