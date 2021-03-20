@@ -37,6 +37,6 @@ _**Note: Before running the program, please ensure you have Deno installed on yo
 This project is licensed under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
 
 ## :warning: Disclaimer
-This program uses an unofficial API and bares no official association, affiliation, authorization or endorsement of any kind to Space Exploration Technologies Corp (SpaceX) or any of its subsidiaries or its affiliates.
+This program uses an unofficial API that bares no official association, affiliation, authorization or endorsement of any kind to Space Exploration Technologies Corp (SpaceX) or any of its subsidiaries or its affiliates.
 
 The contents of these pages are provided as an information guide only. While every effort is made in preparing the material for publication, no responsibility is accepted by or on behalf of the owner(s) for any errors, omissions or misleading statements on these pages or any site to which these pages connect. Although every effort is made to ensure the reliability of listed sites this cannot be taken as an endorsement of these sites.
